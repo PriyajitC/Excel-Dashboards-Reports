@@ -28,7 +28,7 @@ It uncovers key performance trends such as peak sales hours, best-performing day
 
 ## 🖼️ Dashboard Preview
 
-[![Dashboard Screenshot](The-Coffee-Shop-Sales-Intelligence-Dashboard.png)
+[![Dashboard Screenshot]([The-Coffee-Shop-Sales-Intelligence-Dashboard.png](https://github.com/PriyajitC/Excel-Dashboards-Reports/blob/a3b4e4de4aefb059d6643e6703cddb919fbe8f33/The%20Coffee%20Shop%20Sales%20Intelligence%20Dashboard.png))
 ---
 
 ## 📁 Files Included
