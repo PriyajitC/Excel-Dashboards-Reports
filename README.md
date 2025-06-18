@@ -11,7 +11,7 @@ Welcome to my Excel portfolio. Here you'll find dashboards and data analysis wor
 
 **Tools:** Data Cleaning | Pivot Tables | Slicers | Conditional Formatting | Pivot Charts
 
-**[👉 View Project]()**
+**[👉 View Project](https://github.com/PriyajitC/The-Coffee-Shop-Sales-Intelligence-Dashboard)**
 
 ---
 
