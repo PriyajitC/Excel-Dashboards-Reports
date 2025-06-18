@@ -28,8 +28,7 @@ It uncovers key performance trends such as peak sales hours, best-performing day
 
 ## 🖼️ Dashboard Preview
 
-_Screenshot(s) uploaded in the folder for a visual overview._
-
+The Coffee Shop Sales Intelligence Dashboard.png
 ---
 
 ## 📁 Files Included
